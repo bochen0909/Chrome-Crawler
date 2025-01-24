@@ -14,7 +14,7 @@
    },
    "name": "Chrome Crawler",
    "options_page": "options.html",
-   "permissions": ["tabs"],
+   "permissions": ["tabs", "storage"],
    "host_permissions": ["http://*/*", "https://*/*"],
    "version": "0.7"
 }
